@@ -38,9 +38,6 @@ class ViewController: UIViewController {
     
     @IBAction func ButtonA(_ sender: UIButton) {
         sender.isHidden = true
-        changeColor(of: styleOutletCollection[2], to: .systemIndigo)
-        changeColor(of: styleOutletCollection[2], to: .systemIndigo)
-        changeColor(of: styleOutletCollection[2], to: .systemIndigo)
     }
  
     
